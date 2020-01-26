@@ -63,4 +63,4 @@ The project's architecture is composed of the following resources:
 
 The project takes inspiration from the [AWS reference architecture for WordPress](https://github.com/aws-samples/aws-refarch-wordpress), as recommended by Amazon.
 
-![alt text](aws-arch-ref-wordpress.jpg "AWS reference architecture for WordPress Diagram")
+![alt text](diagrams/aws-arch-ref-wordpress.jpg "AWS reference architecture for WordPress Diagram")
