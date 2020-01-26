@@ -8,7 +8,7 @@ The architecture conforms to best practices as recommended by Amazon with regard
 
 The image below provides a visual representation of the project's architecture.
 
-![alt text](diagram/saws-reference-architecture-diagram.png "AWS reference architecture diagram")
+![alt text](diagrams/aws-reference-architecture-diagram.png "AWS reference architecture diagram")
 
 Additionally, an auto-generated CloudFormation Designer diagram is presented below.
 
