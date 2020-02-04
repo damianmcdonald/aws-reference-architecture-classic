@@ -59,9 +59,9 @@ Create the resources and deploy the project by executing the [aws-deploy.sh](aws
 ./aws-deploy.sh
 ```
 
-**NOTE**: Some of the resources that are created as part of the CloudFormation templates are not part of the AWS *Free Tier* (e.g. NAT Gateway, RDS Snapshots) and will incur costs.
+The project is deployed using a [CloudFormation](stack-template.yml) template. You can follow the progress of the project creation using the AWS CloudFormation console.
 
-The project is deployed using a [CloudFormation](stack-template.yml) template. You can following the progress of the project creation using the AWS CloudFormation console.
+**NOTE**: Some of the resources that are created as part of the CloudFormation template are not part of the AWS *Free Tier* (e.g. NAT Gateway, RDS Snapshots) and will incur costs.
 
 As part of the execution of the [aws-deploy.sh](aws-deploy.sh) script, one additional file is dynamically created.
 
